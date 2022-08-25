@@ -1,5 +1,5 @@
 # osdev
-Contains code used during my attempt to learn how to design and implement a simple operating system.
+Contains code used during my attempt to learn how to design and implement a bootloader and eventually a simple operating system.
 
 ### Resources Used ###
 **OSDev Wiki:** https://wiki.osdev.org/Main_Page<br>
